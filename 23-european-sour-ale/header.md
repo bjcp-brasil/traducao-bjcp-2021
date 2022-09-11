@@ -1,3 +1,3 @@
 # 23. European Sour Ale
 
-This category contains the traditional sour beer styles of Europe that are still produced, many (but not all) with a wheat component. Most have low bitterness, with the sourness of the beer providing the balance that hop bitterness would otherwise contribute. Some are sweetened or flavored, whether at the brewery or upon consumption.
+Esta categoria contém os estilos de cervejas ácidas tradicionais da Europa que ainda são produzidas, das quais muitas (mas não todas) contém algum componente de trigo. A maioria possui baixo amargor, com a acidez da cerveja suprindo o equilíbrio que normalmente o amargor de lúpulo contribuiria. Algumas são adoçadas ou saborizadas, seja na cervejaria ou no momento do consumo.
