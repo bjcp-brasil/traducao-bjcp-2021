@@ -1,42 +1,42 @@
 # 23B. Flanders Red Ale
 
-## Overall Impression
+## Impressão Geral
 
-A sour and fruity oak-aged reddish-brown Belgian-style ale with supportive toasty malt flavors and fruit complexity. The dry, tannic finish supports the suggestion of a vintage red wine.
+Uma ale do estilo Belga ácida e frutada,marrom-avermelhada envelhecida em carvalho com sabores de malte tostados servindo como suporte e complexidade de fruta. O final seco e tânico reforça a sugestão de um vinho tinto *vintage* (de uma safra de excepcional qualidade).
 
-## Appearance
+## Aparência
 
-Deep red, burgundy to reddish-brown in color. Good clarity. White to very pale tan head. Average to good head retention.
+Vermelho profundo, bordô a marrom-avermelhado na cor. Boa limpidez. Colarinho, na cor, de branco a castanho muito claro. Média a boa retenção de espuma.
 
 ## Aroma
 
-Complex fruity-sour profile with supporting malt. Fruitiness is high, and reminiscent of black cherries, oranges, plums, red currants, or fruit leather. Low to medium-low vanilla, chocolate, or peppery phenol can be present for complexity. The sour aroma ranges from moderate to high. A dominant vinegary character is inappropriate, although low to moderate levels of acetic acid are acceptable if balanced with the malt. No hop aroma.
+Perfil ácido-frutado complexo com o malte fornecendo suporte. Frutuosidade é alta e remete a cerejas pretas, laranjas, ameixas, groselhas ou *fruit leather* (polpas de frutas que são espalhadas e secas em formato de tiras). Baixo a médio baixo chocolate, baunilha ou fenol condimentado podem estar presentes para complexidade. O aroma ácido pode variar de moderado a alto. Um caráter avinagrado dominante é inapropriado, embora níveis baixos a moderados de ácido acético sejam aceitáveis desde que equilibrados com o malte. Sem aroma de lúpulo.
 
-## Flavor
+## Sabor
 
-Moderate to moderately-high malty flavors often have a soft toasty-rich quality. Intense fruit flavors, same descriptors as aroma. Complex, moderate to high sourness, accentuated by the esters; should not be a simple lactic sourness. A dominant vinegary character is inappropriate, although low to moderate acetic acid is acceptable if balanced with the malt. Generally as the sour character increases, the malt character fades to more of a background flavor (and vice versa). Low to medium-low vanilla, chocolate, or peppery phenols optional. No hop flavor. Restrained bitterness; balanced to the malt side. Acids and tannins can enhance the perception of bitterness, and provide balance and structure. Some versions are sweetened, or blended to be sweet; allow for a wide range of sweetness levels, which can soften the acidic bite and acetic perception.
+Sabores maltados moderados a moderadamente altos em geral apresentam uma qualidade rica-tostada. Sabores intensos de frutas, sendo os descritores os mesmos do aroma. Acidez complexa de moderada a alta, acentuada pelos esteres; não deve ser uma simples acides lática. Um caráter avinagrado dominante é inapropriado, embora níveis baixos a moderados de ácido acético sejam aceitáveis desde que equilibrados com o malte. Geralmente com o aumento do caráter ácido o malte reduz gradualmente para um sabor mais de segundo plano (e vice-versa). Baixo a médio baixo chocolate, baunilha ou fenol condimentado.  Sem aroma de lúpulo. Amargor contido com o equilíbrio para o lado do malte. Ácidos e taninos podem realçar a percepção de amargor e prover equilíbrio e estrutura. Algumas versões são adoçadas ou combinadas para serem doce; permita uma ampla variedade nos níveis de dulçor, que podem suavizar a acidez picante e a percepção acética. 
 
-## Mouthfeel
+## Sensação na Boca
 
-Medium body, often enhanced by tannins. Low to medium carbonation. Low to medium astringency, often with a prickly acidity. Deceivingly light and crisp on the palate although a somewhat sweet finish is not uncommon.
+Corpo médio, frequentemente realçado por taninos. Carbonatação baixa a média baixa. Baixa a média adstringência, geralmente com uma acidez que causa um sutil formigamento na língua. No paladar é enganosamente leve e com final bem definido (*crisp*), embora um final meio adocicado não seja incomum.
 
-## Comments
+## Comentários
 
-The “wine-like” observation should not be taken too literally; it may suggest a high-acid French Burgundy to some, but it is clearly not identical. Produced by long aging (up to two years) in large wooden vats (foeders), blending of young and well-aged beer, and variable amounts of sweetening of the final product. A wide range of products are possible depending on the actual blend and whether any sweetening takes place. Acetic flavors may be noted, but not all acidity in this beer is from acetic acid; vinegar is over six times greater in total acidity than this style. Fruited versions should be entered as a 29A Fruit Beer.
+A observação "como-vinho" não deve ser levada muito literalmente; ela pode sugerir um vinho francês da Borgonha de alta acidez, mas claramente não é idêntica. Produzida por envelhecimento extenso (até dois anos) em imensos barris de madeira (*foeders*), combinando cervejas jovens e bem maturadas e adoçantes em quantidades variáveis na finalização do produto. Uma alta gama de produtos são possíveis dependendo da real combinação e se há utilização de adoçantes. Sabores acéticos podem ser notados, mas nem toda acidez nesta cerveja é derivada de ácido acético; vinagre supera em mais de seis vezes a acidez total deste estilo. Versões com adição de fruta devem ser inscritas como uma 29A Fruit Beer.
 
-## History
+## História
 
-An indigenous beer of West Flanders, typified by the products of the Rodenbach brewery, established in 1821. Aging in wooden vats and blending of old and young beers borrowed from the English tradition. Belgian brewers consider Flanders Red and Oud Bruin to be of the same style family, but the distinction was first made when Michael Jackson first defined beer styles, since the flavor profiles are distinctly different. Many modern examples are influenced by the popularity of Rodenbach Grand Cru.
+Uma cerveja nativa da Flandres Oriental, representada pelos produtos da cervejaria Rodenbach, estabelecida em 1821. O envelhecimento em imensos barris de madeira e a combinação de cervejas jovens e envelhecidas foram emprestados da tradição inglesa. Os cervejeiros belgas consideram a Flanders Red e a Oud Bruin da mesma família de estilos, mas a primeira diferenciação foi feita quando Michael Jackson inicialmente definiu os estilos de cerveja, dado que os perfis de sabor são claramente diferentes. Muitos exemplares modernos são influenciados pela popularidade da Rodenbach Grand Cru.
 
-## Characteristic Ingredients
+## Ingredientes Característicos
 
-Vienna or Munich malts, a variety of caramel malts, maize. Low alpha acid continental hops. Sacch, Lacto, and Brett. Aged in oak. Sometimes blended and sweetened (natural or artificial).
+Maltes Vienna ou Munique, uma variedade de maltes caramelo e milho. Lúpulos da Europa continental de baixo alfa ácido. Sacch, Lacto e Bretta. Envelhecida em carvalho. Por vezes combinada e adoçada (naturalmente ou artificialmente).
 
-## Style Comparison
+## Comparação de Estilo
 
-Less malty-rich than an Oud Bruin, often with more of a fruity-tart and acetic profile.
+Menos rica em sabores maltados que uma Oud Bruin, geralmente mais voltada para um perfil azedo-frutado e acético.
 
-## Vital Statistics
+## Estatísticas Vitais
 
 IBU: 10 - 25
 SRM: 10 - 17
@@ -44,14 +44,14 @@ OG: 1.048 - 1.057
 FG: 1.002 - 1.012
 ABV: 4.6% - 6.5%
 
-## Commercial Examples
+## Exemplos Comerciais
 
 Cuvée des Jacobins Rouge, Duchesse de Bourgogne, New Belgium La Folie, Rodenbach Classic, Rodenbach Grand Cru, Vichtenaar Flemish Ale.
 
-## Past Revision
+## Última Revisão
 
 Flanders Red Ale (2015)
 
-## Style Attributes
+## Atributos do Estilo
 
 amber-color, balanced, sour, sour-ale-family, standard-strength, top-fermented, traditional-style, western-europe, wood

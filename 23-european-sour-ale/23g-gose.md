@@ -1,42 +1,42 @@
 # 23G. Gose
 
-## Overall Impression
+## Impressão Geral
 
-A tart, lightly-bittered historical central European wheat beer with a distinctive but restrained salt and coriander character. Very refreshing, with a dry finish, high carbonation, and bright flavors.
+Uma cerveja ácida da Europa Central, levemente amarga, com um caráter de sal e semente de coentro distinto, porém contido. Muito refrescante, com um final seco, alta carbonatação e sabores vivos.
 
-## Appearance
+## Aparência
 
-Unfiltered, with a moderate to full haze. Moderate to tall white head with tight bubbles and good retention. Effervescent. Yellow color.
+Não filtrada, com turbidez moderada a alta. Colarinho branco de moderado a alto com bolhas pequenas e boa retenção. Efervescente. De coloração amarela.
 
 ## Aroma
 
-Light to moderately fruity aroma of pome fruit. Light sourness, slightly sharp. Noticeable coriander, which can have an aromatic lemony quality, and an intensity up to moderate. Light bready, doughy, yeasty character like uncooked sourdough bread. The acidity and coriander can give a bright, lively impression. The salt may be perceived as a very light, clean sea breeze character or just a general freshness, if noticeable at all.
+Aroma leve a moderadamente frutado de frutas de pomo. Leve acidez, ligeiramente acentuada. Semente de coentro perceptível, o qual pode ter uma qualidade aromática que remete a limão e uma intensidade que pode chegar a moderada. Leve pão, massa de pão, caráter de levedura como pão de fermentação natural antes de ser assado. A acidez e as sementes de coentro podem fornecer uma impressão viva, vibrante. O sal, se de alguma forma aparente, pode ser percebido como uma brisa do mar muito leve ou apenas um frescor indefinido.
 
-## Flavor
+## Sabor
 
-Noticeable sourness, medium-low to medium-high. Moderate bready or doughy malt flavor. Light to moderate fruity character of pome fruit, stone fruit, or lemons. Light to moderate salt character, up to the threshold of taste; the salt should be noticeable (particularly in the initial taste) but not taste overtly salty. Very low bitterness. No hop flavor. Dry, fully-attenuated finish, with acidity not hops balancing the malt. Acidity can be more noticeable in the finish, and enhance the refreshing quality of the beer. The acidity should be balanced, not forward (although historical versions could be very sour). No THP.
+Acidez perceptível, de média baixa a média alta. Sabor moderado de malte como pão ou massa de mão. Leve a moderado caráter frutado de frutas de pomo, frutas de caroço ou limões. Caráter de sal leve a moderado, podendo chegar até o limiar do sabor; o sal deve ser perceptível (particularmente na prova inicial) mas não ter um gosto notadamente salgado. Amargor muito baixo. Sem sabor de lúpulo. Seca, final completamente atenuado, com a acidez, não  os lúpulos, equilibrando o malte. A acidez pode ser mais evidente no final e aprimorar a qualidade refrescante da cerveja. A acidez deve ser equilibrada, não protagonista (apesar das versões históricas serem muito ácidas). Sem THP.
 
-## Mouthfeel
+## Sensação na Boca
 
-High to very high carbonation. Effervescent. Medium-light to medium-full body. Salt may give a slightly tingly, mouthwatering quality and a rounder, thicker mouthfeel. Yeast and wheat can also add a little body, but shouldn’t feel heavy due to the thinning effects of acidity.
+Carbonatação de alta a muito alta. Efervescente. Corpo de médio baixo a médio alto. O sal pode passar uma leve sensação de formigamento, uma qualidade de dar água na boca e uma sensação na boca mais arrendondada e mais espessa. 
 
-## Comments
+## Comentários
 
-Historical versions may have been more sour than modern examples due to spontaneous fermentation, and may be blended with syrups as is done with Berliner Weisse, or with caraway liqueur. Modern examples are inoculated with Lacto, and are more balanced and generally don’t need sweetening. Pronounced GOH-zeh.
+Versões históricas podem ter sido mais ácidas do que os exemplares modernos devido a fermentação espontânea e podem ser misturadas com xaropes, assim como é feito com a Berliner Weisse, ou com licor de alcaravia. Exemplares modernos são inoculados com Lacto, são mais equilibrados e geralmente não exigem adoçantes. Pronuncia-se GÔ-za.
 
-## History
+## História
 
-Minor style associated with Leipzig but originating in the Middle Ages in the town of Goslar on the Gose River. Documented to have been in Leipzig by 1740. Leipzig was said to have 80 Gose houses in 1900. Production declined significantly after WWII, and ceased entirely in 1966. Modern production was revived in the 1980s in Germany, but the beer was not widely available. Became popular outside of Germany recently as a revival style, and is often used as a base style for fruited sour beers and other Specialty-Type beers.
+Pequeno estilo associado com Leipzig mas originado na Idade Média na cidade de Goslar sob o rio Gose. Documentada como tendo aparecido em Leipzig por volta de 1740. Leipzig foi descrita como tendo 80 casas de Gose em 1900. A produção teve um declínio significante depois da Segunda Guerra Mundial e cessou completamente em 1966. A produção moderna foi revivida nos anos 80 na Alemanha, mas a cerveja não era amplamente acessível. Ficou popular fora da Alemanha recentemente como um renascimento do estilo e é frequentemente utilizada como um estilo base pra cervejas ácidas frutas e outras cervejas do tipo Specialty.
 
-## Characteristic Ingredients
+## Ingredientes Característicos
 
-Pilsner and wheat malt, restrained use of salt and coriander seed, Lacto. The coriander should have a fresh, citrusy (lemon or bitter orange), bright note, and not be vegetal, celery-like, or ham-like. The salt should have a sea salt or fresh salt character, not a metallic, iodine note.
+Malte de trigo e Pilsen, uso restrito de sal e sementes de coentro, Lacto. As sementes de coentro devem ter uma nota viva, fresca, cítrica (limão ou laranja-azeda) e não vegetal, como salsão ou tipo presunto. O sal deve ter um caráter de sal marinho ou sal fresco, não uma nota metálica ou de iodo.
 
-## Style Comparison
+## Comparação de Estilo
 
-Perceived acidity is not as intense as Berliner Weisse or Gueuze. Restrained use of salt, coriander, and Lacto – should not taste overtly salty. Coriander aroma can be similar to a Witbier. Haziness similar to a Weissbier.
+A acidez percebida não é tão intensa com uma Berliner Weisse ou Gueuze. Uso contido de sal, sementes de coentro e Lacto - não deve ter um gosto notadamente salgado. O aroma de sementes de coentro pode ser similar a uma Witbier. Turbidez similar a uma Weissbier.
 
-## Vital Statistics
+## Estatísticas Vitais
 
 IBU: 5 - 12
 SRM: 3 - 4
@@ -44,14 +44,14 @@ OG: 1.036 - 1.056
 FG: 1.006 - 1.010
 ABV: 4.2% - 4.8%
 
-## Commercial Examples
+## Exemplos Comerciais
 
 Anderson Valley Gose, Bayerisch Bahnhof Leipziger Gose, Original Ritterguts Gose, Westbrook Gose.
 
-## Past Revision
+## Última Revisão
 
 Historical Beer: Gose (2015)
 
-## Style Attributes
+## Atributos do Estilo
 
 central-europe, historical-style, pale-color, sour, spice, standard-strength, top-fermented, wheat-beer-family

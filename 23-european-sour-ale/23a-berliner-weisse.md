@@ -1,42 +1,42 @@
 # 23A. Berliner Weisse
 
-## Overall Impression
+## Impressão Geral
 
-A very pale, refreshing, low-alcohol German wheat beer with a clean lactic sourness and a very high carbonation level. A light bread dough malt flavor supports the sourness, which shouldn’t seem artificial. A gentle fruitiness is found in the best examples.
+Uma cerveja de trigo alemã muito clara, refrescante, de baixo teor alcoólico, com uma acidez lática limpa e um nível de carbonatação muito alto. No malte, um leve sabor de massa de pão sustenta a acidez, que não deve parecer artificial. Um frutado suave aparece nos melhores exemplares.
 
-## Appearance
+## Aparência
 
-Straw in color, can be very pale. Clarity ranges from clear to somewhat hazy. Large, dense, white head with poor retention. Highly effervescent.
+De coloração palha, pode ser bem clara. A limpidez varia de transparente a um tanto turva. Colarinho branco grande, denso e com retenção pobre. Altamente efervescente.
 
 ## Aroma
 
-A moderate to moderately-high sharply sour character is dominant. Can have up to a moderately fruitiness, often lemon, tart apple, peach, or apricot, and a light floral note. No hop aroma. The wheat may be perceived as raw bread dough in fresher versions; combined with the acidity, may suggest sourdough bread.
+Um caráter nitidamente ácido moderado a moderadamente-alto é dominante. Pode chegar até um moderadamente frutado, geralmente limão, maçã azeda, pêssego ou damasco e uma nota floral leve. Sem aroma de lúpulo. Nas versões mais frescas o trigo pode ser notado como massa de pão crua e, combinado com a acidez, pode sugerir pão de fermentação natural.
 
-## Flavor
+## Sabor
 
-Clean lactic sourness dominates and can be quite strong. A complementary doughy, bready, or grainy wheat flavor is generally noticeable. Hop bitterness is undetectable; sourness provides the balance rather than hops. Never vinegary. Bright yet restrained fruitiness may be detected as apricot-peach, citrus-lemon, or tart apple. Very dry finish. Balance dominated by sourness, but some malt flavor should be present. No hop flavor. No THP.
+Acidez lática limpa domina e pode ser bastante forte. Um sabor complementar que remete a massa de pão, pão ou grãos de trigo é geralmente perceptível. Amargor de lúpulo indetectável; a acidez supre o equilíbrio no lugar dos lúpulos. Nunca avinagrado. Frutado nítido, apesar de restrito, pode ser detectado como pêssego-damasco, limão-cítrico ou maçã azeda. Final muito seco. O equilíbrio é dominado pela acidez, mas algum sabor de malte deve estar presente. Sem sabor de lúpulo. Sem THP.
 
-## Mouthfeel
+## Sensação na Boca
 
-Light body, but never thin. Very high carbonation. No sensation of alcohol. Crisp acidity.
+Corpo leve, mas nunca ralo. Carbonatação muito alta. Sem sensação de álcool. Acidez que rapidamente faz a percepção de corpo parecer mais aguda (*crisp*).
 
-## Comments
+## Comentários
 
-Any Brett character is restrained, and is typically expressed as fruity and floral notes, not funky. Aged examples can show a cider, honey, hay, or gentle wildflower character, and sometimes increased acidity. In Germany, it is classified as a Schankbier denoting a small beer of starting gravity in the range 7-8 °P. Fruited or Spiced versions should be entered as 29A Fruit Beer, as 30A Spice, Herb, or Vegetable Beer, or as 29B Fruit and Spice Beer.
+Qualquer aspecto de Bretta é contido e tipicamente expressado na forma de notas florais e frutadas, nunca *funky*. Versões envelhecidas podem denotar características de cidra, mel, feno ou suave flor silvestre e, por vezes, acidez elevada. Na Alemanha é classificada como uma *Schankbier*, ou seja, uma cerveja leve com densidade inicial na faixa de 7-8 °P. Versões com adição de fruta ou especiarias devem ser inscritas como 29A Fruit Beer, como 30A Spice, Herb, or Vegetable Beer ou como 29 29B Fruit and Spice Beer.
 
-## History
+## História
 
-A regional specialty of Berlin. Referred to by Napoleon’s troops in 1809 as “the Champagne of the North” due to its lively and elegant character. At one point, it was smoked and there used to be Märzen-strength (14 °P) version. Increasingly rare in Germany, but now produced in several other countries.
+Uma especialidade regional de Berlim. Em 1809 era referida como "a Champagne do Norte" pelas tropas de Napoleão devido à sua qualidade vibrante e elegante. Em dado momento era defumada e costumava haver uma versão de intensidade *Märzen* (14 °P). Cada vez mais rara na Alemanha, mas agora produzida em diversos outros países.
 
-## Characteristic Ingredients
+## Ingredientes Característicos
 
-: Pilsner malt. Usually wheat malt, often at least half the grist. A symbiotic co-fermentation with top-fermenting yeast and LAB provides the sharp sourness, which may be enhanced by blending of beers of different ages during fermentation and by cool aging. Decoction mashing with mash hopping is traditional. German brewing scientists believe that Brett is essential to get the correct, fruity-floral flavor profile.
+Malte Pilsen. Usualmente malte de trigo, geralmente metade dos grãos, no mínimo. Uma co-fermentação simbiótica com levedura de alta fermentação e LAB (bactéria de ácido lático, da sigla em inglês) fornece a acidez acentuada, que pode ser melhorada pela mistura (durante a fermentação) de cervejas com tempos de envelhecimento distintos e pela maturação a frio. Decocção na mostura com *mash hopping* (adição de lúpulos durante a mosturação) é tradicional. Cientistas alemães da brassagem acreditam que Bretta é essencial para obter o perfil de sabor frutado-floral correto.
 
-## Style Comparison
+## Comparação de Estilo
 
-Compared to Lambic, has a clean lactic sourness with restrained to below sensory threshold Brett. Also lower in alcohol content. Compared to Straight Sour Beer and Catharina Sour, is lower gravity and may contain Brett.
+Comparada à Lambic, possui uma acidez lática limpa com Bretta entre contida a abaixo do limiar sensorial. Também possui teor alcoólico mais baixo. Comparada à Straight Sour Beer e à Catharina Sour, apresenta densidade menor e pode conter Bretta.
 
-## Vital Statistics
+## Estatísticas Vitais
 
 IBU: 3 - 8
 SRM: 2 - 3
@@ -44,14 +44,14 @@ OG: 1.028 - 1.032
 FG: 1.003 - 1.006
 ABV: 2.8% - 3.8%
 
-## Commercial Examples
+## Exemplos Comerciais
 
 Bayerischer Bahnhof Berliner Style Weisse, Berliner Berg Berliner Weisse, Brauerei Meierei Weiße, Lemke Berlin Budike Weisse, Schell's Brewing Company Schelltheiss, Urban Chestnut Ku’damm.
 
-## Past Revision
+## Última Revisão
 
 Berliner Weisse (2015)
 
-## Style Attributes
+## Atributos do Estilo
 
 central-europe, pale-color, session-strength, sour, top-fermented, traditional-style, wheat-beer-family
